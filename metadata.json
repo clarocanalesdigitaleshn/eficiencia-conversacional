@@ -1,0 +1,10 @@
+{
+  "name": "claro-eficiencia-conversional",
+  "description": "Plataforma de optimización de comunicación para agentes de Claro Honduras. Proyecto: claro-eficiencia-conversional.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "homepage": "https://claro-eficiencia-conversional-454240806977.us-west1.run.app"
+}
